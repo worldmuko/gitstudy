@@ -2,3 +2,7 @@ h2 {
   font-size: x-large;
   color: orange;
 }
+
+.explain {
+  border: 1px solid yellow;
+}
